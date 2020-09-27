@@ -54,7 +54,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>My Notes Info</h1>
+            <h1>My Notes App</h1>
             <input
                 type="file"
                 onChange={onChange}
